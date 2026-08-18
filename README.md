@@ -55,6 +55,9 @@ Optimum küme sayısının belirlenmesi için:
 
 yöntemlerinden yararlanılmıştır.
 
+
+<img width="853" height="480" alt="image" src="https://github.com/user-attachments/assets/e9c56175-8bc0-48a8-ba8c-a2f1b6ecedc3" />
+
 ---
 
 ## Ek Analizler
