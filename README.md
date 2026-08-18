@@ -1,5 +1,8 @@
 # OECD Ülkelerinin Sosyo-Ekonomik Göstergeler ile K-Means Kümeleme Analizi
 
+
+<img width="824" height="429" alt="image" src="https://github.com/user-attachments/assets/5d4cb2ac-4532-49e4-8c4a-58f74527c2c2" />
+
 ## Proje Hakkında
 
 Bu proje, OECD ülkelerinin çeşitli sosyo-ekonomik göstergeler kullanılarak K-Means kümeleme algoritması ile analiz edilmesini amaçlamaktadır.
